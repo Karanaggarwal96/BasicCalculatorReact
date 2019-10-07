@@ -1,0 +1,46 @@
+.App {
+    width: auto;
+    height: 2000px;
+    text-align: center;
+    background-color: #fff;
+  }
+
+  .App1{
+
+    width: auto;
+    height: 2000px;
+    text-align: center;
+    background-color: #000;
+
+  }
+  
+  .calc{
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+  
+  }
+  
+
+.buttonsTrue{
+    display: inline;
+    background-color:#f0f0f0;
+    color :#000;
+    font-size: 18px;
+
+}
+
+.buttonsFalse{
+    display: inline;
+    background-color:#666;
+    color :#fff;
+    
+    font-size: 18px;
+
+}
+
+.buttons button{
+    width:25%;
+    height:60px;
+    font-size: 18px;
+}
